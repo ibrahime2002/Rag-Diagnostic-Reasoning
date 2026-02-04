@@ -313,12 +313,6 @@ Contributions are welcome! Here's how you can help:
 
 ---
 
-## 📝 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 ## 📚 Learn More
 
 📖 **Read the full article on Medium:** [RAG for Diagnostic Reasoning for Clinical Notes](https://medium.com/@ibrahimerandhawa/rag-for-diagnostic-reasoning-for-clinical-notes-0b8edbf5fa10?postPublishedType=initial)
